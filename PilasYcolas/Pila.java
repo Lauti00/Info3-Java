@@ -1,5 +1,5 @@
 //Implementación de una Pila con lista:
-package Practico4;
+package PilasYcolas;
 
 /*Implementa una pila que almacene palabras. Crea un programa que
 solicite al usuario ingresar palabras y las apile. Luego, desapílalas e

@@ -1,5 +1,5 @@
 
-package Practico4;
+package PilasYcolas;
 import Utils.QueueList;
 
 public class Queuelista {
